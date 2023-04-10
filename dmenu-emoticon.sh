@@ -99,7 +99,8 @@ Bird face              ('>' )>
 Panda face             (•ω•)
 facepalm               (◞‸ლ)
 cringe                 ( >︹<)
-
+bat 1                  ⎛⎝(•ⱅ•)⎠⎞
+bat 2                  ⎛⎝•_•⎠⎞
 
 
 
