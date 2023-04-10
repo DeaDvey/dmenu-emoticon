@@ -40,7 +40,8 @@ meh 2                  ·_·
 awkward                :/
 tounge 1               :P
 tounge 2               :p
-shrug                  ¯\_(ツ)_/¯ 
+shrug 1                ¯\_(ツ)_/¯ 
+shrug 2                ¯\(°_o)/¯
 evil                   >:)
 surprised 1            0_0
 surprised 2            o_o
@@ -61,6 +62,18 @@ wink                   ;)
 tear | cry             :'(
 weeping | crying       ;_;
 lenn shrug             ¯\_( ͡❛ ͜ʖ ͡❛)_/¯
+not fine | seriously   (¬_¬)
+cool | sunglasses      B)
+thumbs up 1            (^_^)b
+thumbs up 2            (-_-)b
+double thumbs up 1     (b^_^)b
+double thumbs up 2     (b-_-)b
+table flip             (╯°□°）╯︵ ┻━┻
+stressed               囧
+dancing                ᕕ( ᐛ )ᕗ
+thinking               
+
+
 
 
 
