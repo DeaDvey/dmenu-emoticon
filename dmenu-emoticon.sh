@@ -71,8 +71,34 @@ double thumbs up 2     (b-_-)b
 table flip             (╯°□°）╯︵ ┻━┻
 stressed               囧
 dancing                ᕕ( ᐛ )ᕗ
-thinking               
-
+thinking               ´-`）.｡oO( ... )
+Happy face             (^_^)
+Smiling face           (^ω^)
+Grinning face          (＾◡＾)
+Smiling heart eyes     (♥ω♥*)
+Smiling face           (ﾟｰﾟ)
+Winking face           (^_-)
+Blushing face          (/ω＼)
+Smiling sunglasses     (⌒_⌒;)
+Relieved face          (´｡• ω •｡`)
+Smiling tears of joy   (ಥ◡ಥ)
+Smiling tongue out     (¬‿¬)
+Smiling with sweat     (・∀・)
+Angry face             (ﾟДﾟ)
+Crying face            (;´༎ຶД༎ຶ`)
+Surprised face         (ﾟﾛﾟ)
+Sleeping face          (´〜`)
+Confused face          (・_・ヾ
+Bear face              ʕ•ᴥ•ʔ
+Cat face               (≧◡≦)
+Dog face               (•‿•)
+Bunny face             ( •ॢ◡-ॢ)-♡
+Fish face              ><(((*>
+Penguin face           <(^_^)>
+Bird face              ('>' )>
+Panda face             (•ω•)
+facepalm               (◞‸ლ)
+cringe                 ( >︹<)
 
 
 
