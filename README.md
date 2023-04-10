@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # dmenu-emoji ᕕ( ᐛ )ᕗ
+=======
+# dmenu-emoticon :D
+>>>>>>> b393761a778ea909c1242fa8220e24ea6256e86c
 
 Search an emoticon by name and copy it to the clipboard. Works best with a dmenu variant that does fuzzy search such as [rofi](https://github.com/DaveDavenport/rofi), but it's compatible with plain [dmenu](https://tools.suckless.org/dmenu/).
 
@@ -39,6 +43,10 @@ bindsym $mod+space exec dmenu-emoji.sh list | rofi -dmenu -p 'Emoji: ' | dmenu-e
 * [rofi-emoji](https://github.com/hatzel/rofi-emoji/). Python-based (but generates a bash script so Python is not used each time), rofi only, inserts-directly
 * [dmenu-fontawesome](https://github.com/4khi1/dmenu-fontawesome). Search an fontawesome icon by name and copy it to the clipboard.
 
+<<<<<<< HEAD
 It takes very little time to write so there are probably more X-D
+=======
+It takes very little time to write so there are probably more XD
+>>>>>>> b393761a778ea909c1242fa8220e24ea6256e86c
 
 This is a fork of dmenu-emoji and is basically the same but with emoticons instead :/
