@@ -17,12 +17,12 @@ case "$1" in
     input=$(tee)
     if [ ! -z "$input" ]; then
       emoji=${input: 23}
-      echo -n "$emoji" | xclip -selection c
-      command -v notify-send > /dev/null && notify-send -t 200 "$emoji copied!"
+      echo -n "$emoticon" | xclip -selection c
+      command -v notify-send > /dev/null && notify-send -t 200 "$emoticon copied!"
     fi
     ;;
   "")
-    bash $0 list | dmenu -p 'Emoji: ' | bash $0 copy
+    bash $0 list | dmenu -p 'Emoticon: ' | bash $0 copy
     ;;
 esac
 
